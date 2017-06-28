@@ -1,0 +1,25 @@
+#div-result *:nth-child(even) {
+    color: red;
+} 
+
+input{
+	margin-top:5px;
+}
+
+.input-text {
+	outline: none;
+	border:gray solid 3px;
+}
+
+.input-text:focus {
+	border-color:orange;
+}
+
+.input-button{
+	background-color:gray;
+}
+
+.input-button:hover{
+	background-color:green;
+}
+
