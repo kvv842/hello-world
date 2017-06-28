@@ -14,7 +14,7 @@ function initiate() {
             input.value = null;
         }
         else {
-            console.log("пустой текст2");
+            console.log("пустой текст3");
         }
     }
 
